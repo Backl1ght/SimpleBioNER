@@ -11,7 +11,7 @@ On a single 2080ti, it takes about an hour to complete the entire process.
 
 ## TODO
 
-currently, it is a simple baseline, still lots of work i can do it in the future:
+currently, it is a simple baseline, still lots of work i can do in the future:
 
 - [ ] use character vector
 - [ ] replace BIO with BIOES
